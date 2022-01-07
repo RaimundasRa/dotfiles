@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = raimundas_radavicius@yahoo.com
+	name = Raimundas Radavicius
